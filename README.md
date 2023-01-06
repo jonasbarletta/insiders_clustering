@@ -4,13 +4,15 @@
   <img src="https://altamiraweb.net/wp-content/uploads/2020/07/tipos-de-clientes-y-como-tratarlos-1024x649.jpg" />
 </p>
 
-'Identificação de Clientes de Alto Valor' é um projeto de Ciências de Dados de agrupamento (clusterização) de clientes de um E-Commerce (fictício).
+'Identificação de Clientes de Alto Valor' é um projeto de Ciências de Dados que utliza técnicas de agrupamento (clusterização) de clientes de um E-Commerce (fictício).
 
-Esse projeto é uma proposta de Projeto do Aluno (PA), da Comunidade DS, baseado no desafio '' da plataforma Kaggle. O enunciado ofical do problema está disponível em [Kaggle]().
+Esse projeto é uma proposta, da Comunidade DS, os dados que utilizaremos foram publicado pela 'The UCI Machine Learning Repository' e estão disponíveis em [Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data).
 
-# 1 Questão de Negócio
+# 1 Contextualização e Questão de Negócio
 
+**Antes de começar a leitura atente-se de que o contexto é completamento fictício, a empresa, o CEO, as perguntas de negócio, etc... tudo foi pensado para simular uma empresa real.**
 
+A empresa All In One Place é uma empresa Outlet Multimarcas, ou seja, ela comercializa produtos de segunda linha de várias marcas a um preço menor, atraveś de um e-commerce. 
 
 # 2 Planejamento da Solução
 
