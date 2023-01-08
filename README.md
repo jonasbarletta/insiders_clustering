@@ -14,6 +14,28 @@ Esse projeto é uma proposta, da Comunidade DS, os dados que utilizaremos foram 
 
 A empresa All In One Place é uma empresa Outlet Multimarcas, ou seja, ela comercializa produtos de segunda linha de várias marcas a um preço menor, atraveś de um e-commerce. 
 
+Em um pouco mais de 1 ano de operações, o time de marketing percebeu que alguns clientes compram produtos mais caros, com mais frequência e acabam contribuindo com uma parcela significativa do faturamento da empresa.
+
+Baseado nesa percepção, o time de marketing vai lançar um programa de fidelidade para os melhores clientes da base, chamado Insiders. Mas eles não possuem um conhecimento avançado em análise de dados para eleger os participantes do programa.
+
+Por esse motivo, o time de marketing requisitou ao time de dados uma seleção de clientes elegíveis ao programa, usando técnicas avançadas de manipulação de dados. 
+
+1.1 Objetivos
+
+- Entregar uma lista com indicações de pessoas para fazer parte do programa de fidelidade "INSIDERS".
+- Relatório com as respostas para as seguintes perguntas:
+   * Quem são as pessoas elegíveis para participar do programa de Insiders ?
+   * Quantos clientes farão parte do grupo ?
+    Quais as principais características desses clientes ?
+    Qual a porcentagem de contribuição do faturamento, vinda do Insiders ?
+    Qual a expectativa de faturamento desse grupo para os próximos meses ?
+    Quais as condições para uma pessoa ser elegível ao Insiders ?
+    Quais as condições para uma pessoa ser removida do Insiders ?
+    Qual a garantia que o programa Insiders é melhor que o restante da base ?
+    Quais ações o time de marketing pode realizar para aumentar o faturamento ?
+
+
+
 # 2 Planejamento da Solução
 
 Para solução do desafio dividimos em algumas etapas cíclicas (como mostra a imagem abaixo) de forma que apresentaremos aqui alguns cíclos completos dessas etapas. Começando na 'Questão de Negócio' até a 'Avaliação do Algoritmo' onde analisaremos a performance do modelo e decidiremos se é necessário realizar mais um ciclo antes de colocar o 'Modelo em Produção'.
