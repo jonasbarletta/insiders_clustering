@@ -181,34 +181,30 @@ Diante das informações geradas na Análise Descritiva faremos as seguintes con
 
 
 
-### 3.8.1 KNN (K-Nearest Neighbors)
+### 3.8.1 
 
 
 
-### 3.8.2 Regressão Logística
+### 3.8.2 
 
 
-### 3.8.3 Extra Tree 
+### 3.8.3 
 
 
-### 3.8.4 Random Forest
+### 3.8.4 
 
 
-
-### 3.8.5 Light Gradient Boost Machine (LGBM)
-
+### 3.8.5 
 
 ## 3.9 Avaliação do Algoritmo
 
 ### 3.9.1 Performance de Negócio
 
-
 ### 3.9.2 Performance do Modelo
-
 
 ## 3.10 Deploy do Modelo em Produção
 
-
+Dashboard: https://datastudio.google.com/s/lp9DxpioCQg
 
 # 4 Etapas do Segundo Ciclo do Projeto
 
