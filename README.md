@@ -204,7 +204,7 @@ Diante das informações geradas na Análise Descritiva faremos as seguintes con
 
 ## 3.10 Deploy do Modelo em Produção
 
-Dashboard: https://datastudio.google.com/s/lp9DxpioCQg
+[Dashboard](https://datastudio.google.com/s/lp9DxpioCQg)
 
 # 4 Etapas do Segundo Ciclo do Projeto
 
