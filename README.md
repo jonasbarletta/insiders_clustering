@@ -303,12 +303,22 @@ Para que o modelo possa ser rodado com mais dados no futuro e tal forma que novo
 
 Começando pelo Notebook de Deploy, salvamos adicionamos ele no GitHub. Do GitHub, instanciamos uma máquina EC2 para rodar o modelo o notebook em nuvem, para isso utilizamos a S3 para armazenar os arquivos necessários juntament com o Papermill com Cronjob para rodar o Notebook de tempos em tempos. Após isso os dados finais são salvos em na AWS RDS (Banco de Dados Relacional Postgres), dessa forma agora os dados podem ser acessado por qualquer membro do time para gerar Insights ou Dashboards para apresentações.
 
-A maior parte do processo funcionou perfeitamente, porém a máquina EC2 que é disponibilizada pela Amazon gratuitamente não tem memória RAM suficiente para rodar a etapa de redimensionalidade. Por esse motivo o notebook foi rodado localmente mesmo, utilizando os arquivo na S3 e criando o Banco de Dados. E assim foi possível gerar o Dashboard mostrado anteriormente.
+A maior parte do processo funcionou perfeitamente, porém a máquina EC2 que é disponibilizada pela Amazon gratuitamente não tem memória RAM suficiente para rodar a etapa de redimensionalidade. Por esse motivo o notebook foi rodado localmente, utilizando os arquivo na S3 e criando o Banco de Dados. E assim foi possível gerar o Dashboard mostrado anteriormente.
 
-# 5 Conclusão
+# 4 Conclusão
 
-# 6 Próximos Passos
+O projeto foi bastante desafiador principalmente por se tratar de um problema de agrupamento que é natural não termos tantos parâmetros para analisar a performance do modelo. Mesmo assim, o agrupamento realizado cumpriu os objetivos de negócio e está pronto para continuar guiando os futuros programas de fidelidade da empresa permitindo que o time de marketing haja de forma acertiva em cada grupo.
+
+# 5 Próximos Passos
+
+Para as próximas etapas:
+
+- Adquirir uma máquina EC2 mais potente para finalizar o deploy do modelo;
+- Testar a redimensionalização dos dados para três dimensões em vez de duas;
+- Inserir mais funcionalidades no dashboard.
  
 # 6 Referências
 
+[1] LOPES, Meigarom. Curso DS em Clusterização - Comunidade DS.
 
+[2] The UCI Machine Learning Repository, http://archive.ics.uci.edu/ml/index.php, último acesso: 12/10/2023
