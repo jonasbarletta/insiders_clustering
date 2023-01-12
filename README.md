@@ -307,7 +307,7 @@ A maior parte do processo funcionou perfeitamente, porém a máquina EC2 que é 
 
 # 4 Conclusão
 
-O projeto foi bastante desafiador principalmente por se tratar de um problema de agrupamento que é natural não termos tantos parâmetros para analisar a performance do modelo. Mesmo assim, o agrupamento realizado cumpriu os objetivos de negócio e está pronto para continuar guiando os futuros programas de fidelidade da empresa permitindo que o time de marketing haja de forma acertiva em cada grupo.
+O projeto foi bastante desafiador principalmente por se tratar de um problema de agrupamento que é natural não termos tantos parâmetros para analisar a performance do modelo. Mesmo assim, o agrupamento realizado cumpriu os objetivos de negócio e está pronto para guiar os futuros programas de fidelidade da empresa permitindo que o time de marketing aja de forma acertiva em cada grupo.
 
 # 5 Próximos Passos
 
