@@ -315,6 +315,7 @@ Para as próximas etapas:
 
 - Adquirir uma máquina EC2 mais potente para finalizar o deploy do modelo;
 - Testar a redimensionalização dos dados para três dimensões em vez de duas;
+- Responder as perguntas faltantes;
 - Inserir mais funcionalidades no dashboard.
  
 # 6 Referências
